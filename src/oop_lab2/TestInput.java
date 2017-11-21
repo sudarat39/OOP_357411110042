@@ -16,7 +16,7 @@ public class TestInput {
         System.out.println("Your name is " + name);
         System.out.print("How old are you? : ");
         int age = Integer.parseInt(reader.readLine());
-        System.out.println("You are " +age+ = "years old.");
+        System.out.println("You are "+age+"years old.");
         //Scanner
         Scanner scanner = new Scanner(System.in);
         System.out.print("Where are you come from?: ");
