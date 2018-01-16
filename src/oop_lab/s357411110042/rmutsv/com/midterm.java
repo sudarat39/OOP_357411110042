@@ -1,4 +1,5 @@
-package oop_lab6;
+package oop_lab.s357411110042.rmutsv.com;
+
 import java.util.Scanner;
 
 public class midterm{
