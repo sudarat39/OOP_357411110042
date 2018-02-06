@@ -1,6 +1,8 @@
 package oop_lab8;
+
 //Person is super-class
 //Student is sub-class
+
 public class Student extends Person {
     private String studentID;
     private String major;

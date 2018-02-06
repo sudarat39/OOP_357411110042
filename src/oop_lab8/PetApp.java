@@ -13,7 +13,8 @@ public class PetApp {
         System.out.println(cat.toString());
         cat.makeNoise();
         cat.myPet();
-        Cow cow = new Cow(name:"Namjai", age:5);
+
+        Cow cow = new Cow("Namjai", 5);
         System.out.println(cow.toString());
         cow.makeNoise();
         cow.myPet();
