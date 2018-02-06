@@ -8,6 +8,9 @@ public class Pet {
         this.name = name;
         this.age = age;
     }
+    protected void muPet(){
+        System.out.println(this.name);
+    }
     //Abstract Method
     public abstract void makeNoise();
 
@@ -33,5 +36,8 @@ public class Pet {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public void myPet() {
     }
 }
